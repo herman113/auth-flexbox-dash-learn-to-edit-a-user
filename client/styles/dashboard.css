@@ -1,0 +1,10 @@
+.dashboard {
+  display: flex;
+}
+
+.dashboard__login-message {
+  position: absolute;
+  top: 6rem;
+  color: green;
+  font-size: 1.5rem;
+}

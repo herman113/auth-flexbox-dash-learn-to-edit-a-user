@@ -1,0 +1,9 @@
+.landing-page {
+  background-color: antiquewhite;
+  height: calc(100vh - 4rem);
+}
+
+.header {
+  font-size: 3rem;
+}
+

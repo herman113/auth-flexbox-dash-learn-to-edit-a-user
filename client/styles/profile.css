@@ -1,0 +1,37 @@
+.profile {
+  height: calc(100vh - 4rem);
+  background-color: azure;
+  display: flex;
+  flex-direction: column;
+}
+.profile__link-edit-user {
+  margin-right: 3rem;
+  align-self: flex-end;
+  margin: 1rem 20rem 1rem;
+  /* text-decoration: none; */
+  font-size: 2rem;
+}
+
+.profile__link-edit-user:link,
+.profile__link-edit-user:visited {
+  /* color: black; */
+}
+
+.profile__header {
+ font-size: 3rem;
+ align-self: center;
+}
+.profile__box {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  /* border: 1px solid black; */
+  background-color: white;
+  width: 50rem;
+  align-self: center;
+}
+.profile__box-first-name,
+.profile__box-email {
+  padding: 1.5rem;
+}

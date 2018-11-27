@@ -1,0 +1,9 @@
+.signup-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.signup-form__header {
+  font-size: 3rem;
+  padding:1rem;
+}
